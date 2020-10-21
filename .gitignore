@@ -7,4 +7,5 @@ coverage
 *.tfvars*
 config/vault/*
 config/local.json
+*.code-workspace
 
