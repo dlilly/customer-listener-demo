@@ -1,7 +1,3 @@
 {
-    "pubSub": {
-        "type": "GoogleCloudPubSub",
-        "projectId": "ct-sales-207211",
-        "topic": "customer-listener"
-    }
+    
 }

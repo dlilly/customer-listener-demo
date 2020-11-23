@@ -21,7 +21,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "@dlillyatx/scaffold": "^0.1.5",
+    "@dlillyatx/scaffold": "^0.1.26",
     "@google-cloud/pubsub": "^1.6.0",
     "lodash": "^4.17.15"
   }
